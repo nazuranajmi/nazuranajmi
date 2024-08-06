@@ -4,7 +4,7 @@ Welcome to my GitHub repository! I'm an aspiring Data Analyst with a passion for
 
 ## 👩‍💻 About Me
 Hi! My name is Nazura Najmi.
-I'm dedicated to grow my expertise in data analytics, statistical analysis, data visualization, and predictive modeling. With a strong foundation in Python, I am continuously working on projects that help me learn and apply these skills in real-world scenarios.
+I'm dedicated to grow my expertise in data analytics, statistical analysis, data visualization, and predictive modeling. Currently I am learnig in Python, I am continuously working on projects that help me learn and apply these skills in real-world scenarios.
 
 
 
